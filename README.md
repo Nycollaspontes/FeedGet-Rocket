@@ -12,9 +12,13 @@ Criação de um Widget para envio de Feedbacks, Feito na NLW da Rocketseat.
 Tecnologias
 
 *Html
+
 *TailwindCSS
+
 *TypeScript
+
 *ReactJS
+
 *Phosphor React 
 
 
